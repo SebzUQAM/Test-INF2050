@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         // Press Alt+Entrée with your caret at the highlighted text to see how
         // IntelliJ IDEA suggests fixing it.
-        System.out.printf("Hello and welcome!---sdfg");
+        System.out.printf("Hello and welcome!correction");
 
         // Press Maj+F10 or click the green arrow button in the gutter to run the code.
         for (int i = 1; i <= 5; i++) { // bob
@@ -13,7 +13,7 @@ public class Main {
             // for you, but you can always add more by pressing Ctrl+F8.
             System.out.println("i = " + i);
 
-            System.out.println("tejhgjhst");
+            System.out.println("test");
             
         }
     }
